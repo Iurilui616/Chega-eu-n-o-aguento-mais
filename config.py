@@ -1,0 +1,4 @@
+DATABASE_URL = "sqlite:///./test.db"
+JWT_SECRET_KEY = "your_jwt_secret_key"
+JWT_ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
