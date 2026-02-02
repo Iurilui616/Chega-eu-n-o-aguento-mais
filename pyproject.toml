@@ -1,0 +1,18 @@
+[project]
+name = "api-achados-perdidos"
+version = "1.0.0"
+description = "API FastAPI com JWT e Docker"
+requires-python = ">=3.10"
+
+dependencies = [
+  "fastapi",
+  "uvicorn",
+  "sqlalchemy",
+  "psycopg2-binary",
+  "python-jose",
+  "passlib",
+  "pydantic",
+  "bcrypt==3.2.2"
+]
+
+[tool.uv]
