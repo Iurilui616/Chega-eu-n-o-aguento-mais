@@ -1,0 +1,6 @@
+pyproject.toml
+api_achados_perdidos.egg-info/PKG-INFO
+api_achados_perdidos.egg-info/SOURCES.txt
+api_achados_perdidos.egg-info/dependency_links.txt
+api_achados_perdidos.egg-info/requires.txt
+api_achados_perdidos.egg-info/top_level.txt

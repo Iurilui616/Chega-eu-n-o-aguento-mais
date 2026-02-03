@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: api-achados-perdidos
+Version: 1.0.0
+Summary: API FastAPI com JWT e Docker
+Requires-Python: >=3.10
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: sqlalchemy
+Requires-Dist: psycopg2-binary
+Requires-Dist: python-jose
+Requires-Dist: passlib
+Requires-Dist: pydantic
+Requires-Dist: bcrypt==3.2.2
